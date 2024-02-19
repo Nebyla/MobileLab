@@ -1,0 +1,15 @@
+com.example.diamonds.app-support-compat-28.0.0-0 /Users/unusmustafaev/Downloads/CEPU-Mobile-Dev-master 2/lab2-assignment-diamond-sizes-skeleton/caches/transforms-3/0b22a6b07b3e498281e2fdb9d93c9c6b/transformed/support-compat-28.0.0/res
+com.example.diamonds.app-coordinatorlayout-28.0.0-1 /Users/unusmustafaev/Downloads/CEPU-Mobile-Dev-master 2/lab2-assignment-diamond-sizes-skeleton/caches/transforms-3/568c762957e87adb25eac94f3bddea2d/transformed/coordinatorlayout-28.0.0/res
+com.example.diamonds.app-cardview-v7-28.0.0-2 /Users/unusmustafaev/Downloads/CEPU-Mobile-Dev-master 2/lab2-assignment-diamond-sizes-skeleton/caches/transforms-3/703109fae2f389c31de7af6aa00ae2fb/transformed/cardview-v7-28.0.0/res
+com.example.diamonds.app-design-28.0.0-3 /Users/unusmustafaev/Downloads/CEPU-Mobile-Dev-master 2/lab2-assignment-diamond-sizes-skeleton/caches/transforms-3/7e1907f63ff91663c6c87fcc65fa47d5/transformed/design-28.0.0/res
+com.example.diamonds.app-recyclerview-v7-28.0.0-4 /Users/unusmustafaev/Downloads/CEPU-Mobile-Dev-master 2/lab2-assignment-diamond-sizes-skeleton/caches/transforms-3/d3210e8e64ad7321d64cd7ae187baa0c/transformed/recyclerview-v7-28.0.0/res
+com.example.diamonds.app-transition-28.0.0-5 /Users/unusmustafaev/Downloads/CEPU-Mobile-Dev-master 2/lab2-assignment-diamond-sizes-skeleton/caches/transforms-3/dd148e729fdb4e754e49b20c9ecc7056/transformed/transition-28.0.0/res
+com.example.diamonds.app-appcompat-v7-28.0.0-6 /Users/unusmustafaev/Downloads/CEPU-Mobile-Dev-master 2/lab2-assignment-diamond-sizes-skeleton/caches/transforms-3/ea5271aff2e9b4fa4c0a0cdbc7dd64f1/transformed/appcompat-v7-28.0.0/res
+com.example.diamonds.app-pngs-7 /Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/build/generated/res/pngs/debug
+com.example.diamonds.app-resValues-8 /Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/build/generated/res/resValues/debug
+com.example.diamonds.app-rs-9 /Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/build/generated/res/rs/debug
+com.example.diamonds.app-mergeDebugResources-10 /Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.diamonds.app-mergeDebugResources-11 /Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.diamonds.app-merged_res-12 /Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/build/intermediates/merged_res/debug
+com.example.diamonds.app-debug-13 /Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/debug/res
+com.example.diamonds.app-main-14 /Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/res
