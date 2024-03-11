@@ -17,18 +17,11 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
-/**
- * To work on unit tests, switch the Test Artifact in the Build Variants view.
- */
 public class GateUnitTests {
 
     // Used to make sure "System.out" and "System.err" are NOT used in your assignments EVER!!
     ByteArrayOutputStream myOut;
     ByteArrayOutputStream myErr;
-
-    /**
-     * This method runs before every test method and 'sets up' the testing environment.
-     */
     @Before
     public void setup(){
         System.err.flush();

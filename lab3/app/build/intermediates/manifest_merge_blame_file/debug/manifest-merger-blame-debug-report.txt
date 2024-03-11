@@ -23,26 +23,25 @@
 16-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:8:9-41
 17        android:supportsRtl="true"
 17-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:9:9-35
-18        android:testOnly="true"
-19        android:theme="@style/AppTheme" >
-19-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:10:9-40
-20        <activity
-20-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:11:9-18:20
-21            android:name="com.company.birthdayprob.ui.MainActivity"
-21-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:11:19-74
-22            android:exported="true" >
-22-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:12:13-36
-23            <intent-filter>
-23-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:13:13-17:29
-24                <action android:name="android.intent.action.MAIN" />
-24-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:14:17-69
-24-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:14:25-66
-25
-26                <category android:name="android.intent.category.LAUNCHER" />
-26-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:16:17-77
-26-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:16:27-74
-27            </intent-filter>
-28        </activity>
-29    </application>
-30
-31</manifest>
+18        android:theme="@style/AppTheme" >
+18-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:10:9-40
+19        <activity
+19-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:11:9-18:20
+20            android:name="com.company.birthdayprob.ui.MainActivity"
+20-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:11:19-74
+21            android:exported="true" >
+21-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:12:13-36
+22            <intent-filter>
+22-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:13:13-17:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:14:17-69
+23-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:14:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:16:17-77
+25-->/Users/unusmustafaev/Downloads/MobileLabDev/Lab3/app/src/main/AndroidManifest.xml:16:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

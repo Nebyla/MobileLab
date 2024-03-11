@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.company.gate.logic.GateUnitTests" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-02-26T05:51:23" hostname="MacBook-Air-Yunus.local" time="0.011">
+<testsuite name="com.company.gate.logic.GateUnitTests" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-02-26T08:36:22" hostname="MacBook-Air-Yunus.local" time="0.015">
   <properties/>
-  <testcase name="testThruOut" classname="com.company.gate.logic.GateUnitTests" time="0.003"/>
+  <testcase name="testThruOut" classname="com.company.gate.logic.GateUnitTests" time="0.002"/>
   <testcase name="testOpenOut" classname="com.company.gate.logic.GateUnitTests" time="0.0"/>
   <testcase name="testOpenClosed" classname="com.company.gate.logic.GateUnitTests" time="0.0"/>
-  <testcase name="testGateConstructor" classname="com.company.gate.logic.GateUnitTests" time="0.0"/>
-  <testcase name="testThruWhenClosed" classname="com.company.gate.logic.GateUnitTests" time="0.001"/>
+  <testcase name="testGateConstructor" classname="com.company.gate.logic.GateUnitTests" time="0.001"/>
+  <testcase name="testThruWhenClosed" classname="com.company.gate.logic.GateUnitTests" time="0.0"/>
   <testcase name="testCloseGate" classname="com.company.gate.logic.GateUnitTests" time="0.001"/>
-  <testcase name="testGateToStringWhenInvalid" classname="com.company.gate.logic.GateUnitTests" time="0.0"/>
-  <testcase name="testInvalidSwingParameter" classname="com.company.gate.logic.GateUnitTests" time="0.001"/>
+  <testcase name="testGateToStringWhenInvalid" classname="com.company.gate.logic.GateUnitTests" time="0.001"/>
+  <testcase name="testInvalidSwingParameter" classname="com.company.gate.logic.GateUnitTests" time="0.0"/>
   <testcase name="testSetSwingIn" classname="com.company.gate.logic.GateUnitTests" time="0.0"/>
-  <testcase name="testGateToStringWhenOpenedOut" classname="com.company.gate.logic.GateUnitTests" time="0.001"/>
-  <testcase name="testGateToStringWhenOpenedIn" classname="com.company.gate.logic.GateUnitTests" time="0.0"/>
-  <testcase name="testSetSwingOut" classname="com.company.gate.logic.GateUnitTests" time="0.001"/>
+  <testcase name="testGateToStringWhenOpenedOut" classname="com.company.gate.logic.GateUnitTests" time="0.0"/>
+  <testcase name="testGateToStringWhenOpenedIn" classname="com.company.gate.logic.GateUnitTests" time="0.001"/>
+  <testcase name="testSetSwingOut" classname="com.company.gate.logic.GateUnitTests" time="0.0"/>
   <testcase name="testOpenIn" classname="com.company.gate.logic.GateUnitTests" time="0.001"/>
-  <testcase name="testGateToStringWhenClosed" classname="com.company.gate.logic.GateUnitTests" time="0.0"/>
-  <testcase name="testThruIn" classname="com.company.gate.logic.GateUnitTests" time="0.001"/>
+  <testcase name="testGateToStringWhenClosed" classname="com.company.gate.logic.GateUnitTests" time="0.001"/>
+  <testcase name="testThruIn" classname="com.company.gate.logic.GateUnitTests" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
